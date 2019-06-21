@@ -7,6 +7,8 @@ A [mage](https://classic.wowhead.com/mage) class guide for World of Warcraft Cla
 - [Races](https://github.com/qiazee/mage/new/master#races)
   - [Gnome](https://github.com/qiazee/mage/new/master#gnome)
   - [Human](https://github.com/qiazee/mage/new/master#human)
+  - [Troll](https://github.com/qiazee/mage/new/master#troll)
+  - [Undead](https://github.com/qiazee/mage/new/master#undead)
 - [Leveling](https://github.com/qiazee/mage/new/master#leveling)
   - [Single Target Build](https://github.com/qiazee/mage/new/master#single-target-build)
     - [Leveling Talents](https://github.com/qiazee/mage/new/master#leveling-talents)
@@ -163,8 +165,10 @@ Level | Ability | Rank | School | Cost
 **20** | [**Evocation**](https://classic.wowhead.com/spell=12051) | | **Arcane** | **20 Silvers**
 20 | [Mana Shield](https://classic.wowhead.com/spell=1463) | 1 | Arcane | 20 Silvers
 **20** | [**Polymorph**](https://classic.wowhead.com/spell=12824) | **2** | **Arcane** | **20 Silvers**
-**20** | [**Teleport: Ironforge**](https://classic.wowhead.com/spell=3562) | | **Arcane** | **20 Silvers**
-**20** | [**Teleport: Stormwind**](https://classic.wowhead.com/spell=3561) | | **Arcane** | **20 Silvers**
+**20** | [**Teleport: Ironforge**](https://classic.wowhead.com/spell=3562) (Alliance) | | **Arcane** | **20 Silvers**
+**20** | [**Teleport: Stormwind**](https://classic.wowhead.com/spell=3561) (Alliance) | | **Arcane** | **20 Silvers**
+**20** | [**Teleport: Orgrimmar**](https://classic.wowhead.com/spell=3567) (Horde) | | **Arcane** | **20 Silvers**
+**20** | [**Teleport: Undercity**](https://classic.wowhead.com/spell=3563) (Horde) | | **Arcane** | **20 Silvers**
 **20** | [**Fire Ward**](https://classic.wowhead.com/spell=543) | **1** | **Fire** | **20 Silvers**
 **20** | [**Blizzard**](https://classic.wowhead.com/spell=10) | **1** | **Frost** | **20 Silvers**
 **20** | [**Frost Armor**](https://classic.wowhead.com/spell=7301) | **3** | **Frost** | **20 Silvers**
@@ -190,7 +194,8 @@ Level | Ability | Rank | School | Cost
 30 | [Amplify Magic](https://classic.wowhead.com/spell=8455) | 2 | Arcane | 80 Silvers
 **30** | [**Arcane Explosion**](https://classic.wowhead.com/spell=8438) | **3** | **Arcane** | **80 Silvers**
 **30** | [**Conjure Water**](https://classic.wowhead.com/spell=6127) | **4** | **Arcane** | **80 Silvers**
-**30** | [**Teleport: Darnassus**](https://classic.wowhead.com/spell=3565) | | **Arcane** | **80 Silvers**
+**30** | [**Teleport: Darnassus**](https://classic.wowhead.com/spell=3565) (Alliance) | | **Arcane** | **80 Silvers**
+**30** | [**Teleport: Thunder Bluff**](https://classic.wowhead.com/spell=3566) (Horde) | | **Arcane** | **80 Silvers**
 **30** | [**Fire Blast**](https://classic.wowhead.com/spell=8412) | **4** | **Fire** | **80 Silvers**
 30 | [Fire Ward](https://classic.wowhead.com/spell=8457) | 2 | Fire | 80 Silvers
 30 | [Fireball](https://classic.wowhead.com/spell=8401) | 6 | Fire | 80 Silvers
@@ -214,8 +219,10 @@ Level | Ability | Rank | School | Cost
 40 | [Arcane Missiles](https://classic.wowhead.com/spell=8417) | 5 | Arcane | 1 Gold 50 Silvers
 **40** | [**Conjure Water**](https://classic.wowhead.com/spell=10138) | **5** | **Arcane** | **1 Gold 50 Silvers**
 **40** | [**Polymorph**](https://classic.wowhead.com/spell=12825) | **3** | **Arcane** | **1 Gold 50 Silvers**
-**40** | [**Portal: Ironforge**](https://classic.wowhead.com/spell=11416) | | **Arcane** | **1 Gold 35 Silvers**
-**40** | [**Portal: Stormwind**](https://classic.wowhead.com/spell=10059) | | **Arcane** | **1 Gold 35 Silvers**
+**40** | [**Portal: Ironforge**](https://classic.wowhead.com/spell=11416) (Alliance) | | **Arcane** | **1 Gold 35 Silvers**
+**40** | [**Portal: Stormwind**](https://classic.wowhead.com/spell=10059) (Alliance) | | **Arcane** | **1 Gold 35 Silvers**
+**40** | [**Portal: Orgrimmar**](https://classic.wowhead.com/spell=11417) (Horde) | | **Arcane** | **1 Gold 35 Silvers**
+**40** | [**Portal: Undercity**](https://classic.wowhead.com/spell=11418) (Horde) | | **Arcane** | **1 Gold 35 Silvers**
 40 | [Fire Ward](https://classic.wowhead.com/spell=8458) | 3 | Fire | 1 Gold 50 Silvers
 40 | [Flamestrike](https://classic.wowhead.com/spell=8423) | 4 | Fire | 1 Gold 50 Silvers
 40 | [Scorch](https://classic.wowhead.com/spell=8446) | 4 | Fire | 1 Gold 50 Silvers
@@ -241,7 +248,8 @@ Level | Ability | Rank | School | Cost
 48 | [Fireball](https://classic.wowhead.com/spell=10149) | 9 | Fire | 2 Golds 80 Silvers
 48 | [Flamestrike](https://classic.wowhead.com/spell=10215) | 5 | Fire | 2 Golds 80 Silvers
 **50** | [**Conjure Water**](https://classic.wowhead.com/spell=10139) | **6** | **Arcane** | **3 Golds 20 Silvers**
-**50** | [**Portal: Darnassus**](https://classic.wowhead.com/spell=11419) | | **Arcane** | **2 Golds 88 Silvers**
+**50** | [**Portal: Darnassus**](https://classic.wowhead.com/spell=11419) (Alliance) | | **Arcane** | **2 Golds 88 Silvers**
+**50** | [**Portal: Thunder Bluff**](https://classic.wowhead.com/spell=11420) (Horde) | | **Arcane** | **2 Golds 88 Silvers**
 50 | [Fire Ward](https://classic.wowhead.com/spell=10223) | 4 | Fire | 3 Golds 20 Silvers
 **50** | [**Cone of Cold**](https://classic.wowhead.com/spell=10160) | **4** | **Frost** | **3 Golds 20 Silvers**
 **50** | [**Frostbolt**](https://classic.wowhead.com/spell=10180) | **9** | **Frost** | **3 Golds 20 Silvers**
@@ -374,8 +382,10 @@ Level | Ability | Rank | School | Cost
 **20** | [**Evocation**](https://classic.wowhead.com/spell=12051) | | **Arcane** | **20 Silvers**
 20 | [Mana Shield](https://classic.wowhead.com/spell=1463) | 1 | Arcane | 20 Silvers
 **20** | [**Polymorph**](https://classic.wowhead.com/spell=12824) | **2** | **Arcane** | **20 Silvers**
-**20** | [**Teleport: Ironforge**](https://classic.wowhead.com/spell=3562) | | **Arcane** | **20 Silvers**
-**20** | [**Teleport: Stormwind**](https://classic.wowhead.com/spell=3561) | | **Arcane** | **20 Silvers**
+**20** | [**Teleport: Ironforge**](https://classic.wowhead.com/spell=3562) (Alliance) | | **Arcane** | **20 Silvers**
+**20** | [**Teleport: Stormwind**](https://classic.wowhead.com/spell=3561) (Alliance) | | **Arcane** | **20 Silvers**
+**20** | [**Teleport: Orgrimmar**](https://classic.wowhead.com/spell=3567) (Horde) | | **Arcane** | **20 Silvers**
+**20** | [**Teleport: Undercity**](https://classic.wowhead.com/spell=3563) (Horde) | | **Arcane** | **20 Silvers**
 **20** | [**Fire Ward**](https://classic.wowhead.com/spell=543) | **1** | **Fire** | **20 Silvers**
 **20** | [**Blizzard**](https://classic.wowhead.com/spell=10) | **1** | **Frost** | **20 Silvers**
 **20** | [**Frost Armor**](https://classic.wowhead.com/spell=7301) | **3** | **Frost** | **20 Silvers**
@@ -401,7 +411,8 @@ Level | Ability | Rank | School | Cost
 30 | [Amplify Magic](https://classic.wowhead.com/spell=8455) | 2 | Arcane | 80 Silvers
 **30** | [**Arcane Explosion**](https://classic.wowhead.com/spell=8438) | **3** | **Arcane** | **80 Silvers**
 **30** | [**Conjure Water**](https://classic.wowhead.com/spell=6127) | **4** | **Arcane** | **80 Silvers**
-**30** | [**Teleport: Darnassus**](https://classic.wowhead.com/spell=3565) | | **Arcane** | **80 Silvers**
+**30** | [**Teleport: Darnassus**](https://classic.wowhead.com/spell=3565) (Alliance) | | **Arcane** | **80 Silvers**
+**30** | [**Teleport: Thunder Bluff**](https://classic.wowhead.com/spell=3566) (Horde) | | **Arcane** | **80 Silvers**
 **30** | [**Fire Blast**](https://classic.wowhead.com/spell=8412) | **4** | **Fire** | **80 Silvers**
 30 | [Fire Ward](https://classic.wowhead.com/spell=8457) | 2 | Fire | 80 Silvers
 30 | [Fireball](https://classic.wowhead.com/spell=8401) | 6 | Fire | 80 Silvers
@@ -425,8 +436,10 @@ Level | Ability | Rank | School | Cost
 40 | [Arcane Missiles](https://classic.wowhead.com/spell=8417) | 5 | Arcane | 1 Gold 50 Silvers
 **40** | [**Conjure Water**](https://classic.wowhead.com/spell=10138) | **5** | **Arcane** | **1 Gold 50 Silvers**
 **40** | [**Polymorph**](https://classic.wowhead.com/spell=12825) | **3** | **Arcane** | **1 Gold 50 Silvers**
-**40** | [**Portal: Ironforge**](https://classic.wowhead.com/spell=11416) | | **Arcane** | **1 Gold 35 Silvers**
-**40** | [**Portal: Stormwind**](https://classic.wowhead.com/spell=10059) | | **Arcane** | **1 Gold 35 Silvers**
+**40** | [**Portal: Ironforge**](https://classic.wowhead.com/spell=11416) (Alliance) | | **Arcane** | **1 Gold 35 Silvers**
+**40** | [**Portal: Stormwind**](https://classic.wowhead.com/spell=10059) (Alliance) | | **Arcane** | **1 Gold 35 Silvers**
+**40** | [**Portal: Orgrimmar**](https://classic.wowhead.com/spell=11417) (Horde) | | **Arcane** | **1 Gold 35 Silvers**
+**40** | [**Portal: Undercity**](https://classic.wowhead.com/spell=11418) (Horde) | | **Arcane** | **1 Gold 35 Silvers**
 40 | [Fire Ward](https://classic.wowhead.com/spell=8458) | 3 | Fire | 1 Gold 50 Silvers
 40 | [Flamestrike](https://classic.wowhead.com/spell=8423) | 4 | Fire | 1 Gold 50 Silvers
 40 | [Scorch](https://classic.wowhead.com/spell=8446) | 4 | Fire | 1 Gold 50 Silvers
@@ -452,7 +465,8 @@ Level | Ability | Rank | School | Cost
 48 | [Fireball](https://classic.wowhead.com/spell=10149) | 9 | Fire | 2 Golds 80 Silvers
 48 | [Flamestrike](https://classic.wowhead.com/spell=10215) | 5 | Fire | 2 Golds 80 Silvers
 **50** | [**Conjure Water**](https://classic.wowhead.com/spell=10139) | **6** | **Arcane** | **3 Golds 20 Silvers**
-**50** | [**Portal: Darnassus**](https://classic.wowhead.com/spell=11419) | | **Arcane** | **2 Golds 88 Silvers**
+**50** | [**Portal: Darnassus**](https://classic.wowhead.com/spell=11419) (Alliance) | | **Arcane** | **2 Golds 88 Silvers**
+**50** | [**Portal: Thunder Bluff**](https://classic.wowhead.com/spell=11420) (Horde) | | **Arcane** | **2 Golds 88 Silvers**
 50 | [Fire Ward](https://classic.wowhead.com/spell=10223) | 4 | Fire | 3 Golds 20 Silvers
 **50** | [**Cone of Cold**](https://classic.wowhead.com/spell=10160) | **4** | **Frost** | **3 Golds 20 Silvers**
 **50** | [**Frostbolt**](https://classic.wowhead.com/spell=10180) | **9** | **Frost** | **3 Golds 20 Silvers**
