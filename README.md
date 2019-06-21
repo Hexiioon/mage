@@ -505,27 +505,27 @@ Level | Ability | Rank | School | Cost
 
 ### Wands
 
-Level Requirement | Name | Item Level | DPS | Speed | Damage | From | Faction
+Level Req. | Name | Item Level | DPS | Speed | Damage | From | Side
 :---: | --- | :---: | :---: | :---: | --- | --- | ---
 5 | [Lesser Magic Wand](https://classic.wowhead.com/item=11287) | 15 | 11.33 | 1.50 | Arcane | Enchanting |
 7 | [Fire Wand](https://classic.wowhead.com/item=5069) | 12 | 8.67 | 1.50 | Fire | World |
 9 | [Shadow Wand](https://classic.wowhead.com/item=5071) | 14 | 10.36 | 1.40 | Shadow | World |
-11 | [Elven Wand](https://classic.wowhead.com/item=5604) | 13 | 9.38 | 1.60 | Arcane | Quest |
+11 | [Elven Wand](https://classic.wowhead.com/item=5604) | 13 | 9.38 | 1.60 | Arcane | Quest | Alliance
 11 | [Spark of the People's Militia](https://classic.wowhead.com/item=12296) | 17 | 12.78 | 1.80 | Arcane | Quest | Alliance
 12 | [Blazing Wand](https://classic.wowhead.com/item=5212) | 17 | 12.67 | 1.50 | Fire | World |
 13 | [Dwarven Flamestick](https://classic.wowhead.com/item=5241) | 18 | 13.61 | 1.80 | Fire | Quest | Alliance
 13 | [Greater Magic Wand](https://classic.wowhead.com/item=11288) | 23 | 17.50 | 1.80 | Arcane | Enchanting |
-14 | [Cinder Wand](https://classic.wowhead.com/item=5242) | 16 | 11.79 | 1.40 | Fire | Quest |
+14 | [Cinder Wand](https://classic.wowhead.com/item=5242) | 16 | 11.79 | 1.40 | Fire | Quest | Horde
 14 | [Flaring Baton](https://classic.wowhead.com/item=5326) | 18 | 13.68 | 1.90 | Fire | Quest | Horde
 15 | [Smoldering Wand](https://classic.wowhead.com/item=5208) | 20 | 13.44 | 1.60 | Fire | Vendor |
-15 | [Moonstone Wand](https://classic.wowhead.com/item=15204) | 18 | 13.61 | 1.80 | Arcane | Quest |
+15 | [Moonstone Wand](https://classic.wowhead.com/item=15204) | 18 | 13.61 | 1.80 | Arcane | Quest | Alliance
 15 | [Opaque Wand](https://classic.wowhead.com/item=5207) | 20 | 15.00 | 1.40 | Shadow | World |
 15 | [Torchlight Wand](https://classic.wowhead.com/item=5240) | 21 | 15.77 | 1.30 | Fire | Quest | Alliance
 15 | [Sable Wand](https://classic.wowhead.com/item=7607) | 22 | 16.94 | 1.80 | Shadow | Quest | Alliance
 15 | [Sizzle Stick](https://classic.wowhead.com/item=8071) | 23 | 17.65 | 1.70 | Fire | Quest |
 15 | [Firebelcher](https://classic.wowhead.com/item=5243) | 20 | 20.29 | 1.70 | Fire | Drop |
 16 | [Gloom Wand](https://classic.wowhead.com/item=5209) | 21 | 14.44 | 1.80 | Shadow | Vendor |
-16 | [Wand of Decay](https://classic.wowhead.com/item=5252) | 21 | 15.67 | 1.50 | Shadow | Quest |
+16 | [Wand of Decay](https://classic.wowhead.com/item=5252) | 21 | 15.67 | 1.50 | Shadow | Quest | Horde
 16 | [Skycaller](https://classic.wowhead.com/item=12984) | 21 | 21.56 | 1.60 | Arcane | World |
 17 | [Branding Rod](https://classic.wowhead.com/item=5356) | 27 | 21.56 | 1.60 | Fire | Quest | Horde
 17 | [Cookie's Stirring Rod](https://classic.wowhead.com/item=5198) | 22 | 22.31 | 1.30 | Arcane | Drop |
@@ -536,7 +536,7 @@ Level Requirement | Name | Item Level | DPS | Speed | Damage | From | Faction
 20 | [Dusk Wand](https://classic.wowhead.com/item=5211) | 25 | 17.65 | 1.70 | Shadow | Vendor |
 20 | [Charred Wand](https://classic.wowhead.com/item=5250) | 28 | 22.22 | 1.80 | Fire | Quest | Horde
 21 | [Dire Wand](https://classic.wowhead.com/item=8186) | 26 | 20.29 | 1.70 | Shadow | World |
-22 | [Excavation Rod](https://classic.wowhead.com/item=5246) | 30 | 24.21 | 1.90 | Fire | Quest |
+22 | [Excavation Rod](https://classic.wowhead.com/item=5246) | 30 | 24.21 | 1.90 | Fire | Quest | Alliance
 22 | [Thunderwood](https://classic.wowhead.com/item=13062) | 27 | 27.11 | 1.90 | Nature | World |
 24 | [Firestarter](https://classic.wowhead.com/item=8184) | 29 | 23.33 | 1.50 | Fire | World |
 25 | [Stingshot Wand](https://classic.wowhead.com/item=15465) | 28 | 22.22 | 1.80 | Nature | Quest | Horde
@@ -553,20 +553,20 @@ Level Requirement | Name | Item Level | DPS | Speed | Damage | From | Faction
 30 | [Greater Mystic Wand](https://classic.wowhead.com/item=11290) | 35 | 29.00 | 2.00 | Arcane | Enchanting |
 30 | [Rod of Sorrow](https://classic.wowhead.com/item=5247) | 39 | 31.84 | 1.90 | Shadow | Quest | Alliance
 30 | [Necrotic Wand](https://classic.wowhead.com/item=7708) | 35 | 33.21 | 1.40 | Shadow | Drop |
-30 | [Ragefire Wand](https://classic.wowhead.com/item=7513) | 40 | 37.14 | 1.40 | Fire | Quest | 
-30 | [Icefury Wand](https://classic.wowhead.com/item=7514) | 40 | 37.19 | 1.60 | Frost | Quest |
-30 | [Nether Force Wand](https://classic.wowhead.com/item=11263) | 40 | 37.33 | 1.50 | Arcane | Quest |
+30 | [Ragefire Wand](https://classic.wowhead.com/item=7513) (Mage) | 40 | 37.14 | 1.40 | Fire | Quest | 
+30 | [Icefury Wand](https://classic.wowhead.com/item=7514) (Mage) | 40 | 37.19 | 1.60 | Frost | Quest |
+30 | [Nether Force Wand](https://classic.wowhead.com/item=11263) (Mage) | 40 | 37.33 | 1.50 | Arcane | Quest |
 31 | [Burning Sliver](https://classic.wowhead.com/item=5249) | 40 | 32.69 | 1.30 | Fire | Quest | Alliance
-31 | [Goblin Igniter](https://classic.wowhead.com/item=5253) | 40 | 32.75 | 2.00 | Fire | Quest |
+31 | [Goblin Igniter](https://classic.wowhead.com/item=5253) | 40 | 32.75 | 2.00 | Fire | Quest | Alliance
 32 | [Captain Rackmore's Tiller](https://classic.wowhead.com/item=16789) | 36 | 29.67 | 1.50 | Frost | Quest |
 32 | [Kodo Brander](https://classic.wowhead.com/item=15692) | 38 | 31.05 | 1.90 | Arcane | Quest |
-33 | [Flash Wand](https://classic.wowhead.com/item=5248) | 37 | 30.38 | 1.30 | Nature | Quest |
+33 | [Flash Wand](https://classic.wowhead.com/item=5248) | 37 | 30.38 | 1.30 | Nature | Quest | Alliance
 33 | [Eyepoker](https://classic.wowhead.com/item=6797) | 37 | 30.59 | 1.70 | Arcane | Quest |
 33 | [Fizzle's Zippy Lighter](https://classic.wowhead.com/item=6729) | 38 | 31.00 | 1.50 | Fire | Quest |
 33 | [Dancing Flame](https://classic.wowhead.com/item=6806) | 40 | 32.86 | 1.40 | Fire | Quest | Horde
 33 | [Earthen Rod](https://classic.wowhead.com/item=9381) | 38 | 35.59 | 1.70 | Nature | Drop |
 34 | [Freezing Shard](https://classic.wowhead.com/item=10572) | 39 | 35.77 | 1.30 | Frost | Drop |
-35 | [Gnomish Zapper](https://classic.wowhead.com/item=4547) | 40 | 32.69 | 1.30 | Arcane | Quest |
+35 | [Gnomish Zapper](https://classic.wowhead.com/item=4547) | 40 | 32.69 | 1.30 | Arcane | Quest | Alliance
 35 | [Plaguerot Sprig](https://classic.wowhead.com/item=10766) | 40 | 37.19 | 1.60 | Nature | Drop |
 36 | [Ember Wand](https://classic.wowhead.com/item=5215) | 41 | 33.67 | 1.50 | Fire | World |
 36 | [Lady Falther'ess' Finger](https://classic.wowhead.com/item=23177) | 41 | 38.08 | 1.30 | Shadow | Drop |
