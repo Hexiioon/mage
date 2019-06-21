@@ -4,18 +4,18 @@ A [mage](https://classic.wowhead.com/mage) class guide for World of Warcraft Cla
 
 ## Table of contents
 
-- [Races](https://github.com/qiazee/mage/master#races)
-  - [Gnome](https://github.com/qiazee/mage/master#gnome)
-  - [Human](https://github.com/qiazee/mage/master#human)
-  - [Troll](https://github.com/qiazee/mage/master#troll)
-  - [Undead](https://github.com/qiazee/mage/master#undead)
-- [Leveling](https://github.com/qiazee/mage/master#leveling)
-  - [Single Target Build](https://github.com/qiazee/mage/master#single-target-build)
-    - [Leveling Talents](https://github.com/qiazee/mage/master#leveling-talents)
-    - [Leveling Abilities](https://github.com/qiazee/mage/master#leveling-abilities)
-  - [AOE Build](https://github.com/qiazee/mage/master#aoe-build)
-    - [Leveling Talents](https://github.com/qiazee/mage/master#leveling-talents-1)
-    - [Leveling Abilities](https://github.com/qiazee/mage/master#leveling-abilities-2)
+- [Races](https://github.com/qiazee/mage/blob/master/README.md#races)
+  - [Gnome](https://github.com/qiazee/mage/blob/master/README.md#gnome)
+  - [Human](https://github.com/qiazee/mage/blob/master/README.md#human)
+  - [Troll](https://github.com/qiazee/mage/blob/master/README.md#troll)
+  - [Undead](https://github.com/qiazee/mage/blob/master/README.md#undead)
+- [Leveling](https://github.com/qiazee/mage/blob/master/README.md#leveling)
+  - [Single Target Build](https://github.com/qiazee/mage/blob/master/README.md#single-target-build)
+    - [Leveling Talents](https://github.com/qiazee/mage/blob/master/README.md#leveling-talents)
+    - [Leveling Abilities](https://github.com/qiazee/mage/blob/master/README.md#leveling-abilities)
+  - [AOE Build](https://github.com/qiazee/mage/blob/master/README.md#aoe-build)
+    - [Leveling Talents](https://github.com/qiazee/mage/blob/master/README.md#leveling-talents-1)
+    - [Leveling Abilities](https://github.com/qiazee/mage/blob/master/README.md#leveling-abilities-2)
 
 ## Races
 
