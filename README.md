@@ -19,9 +19,7 @@ A [mage](https://classic.wowhead.com/mage) class guide for World of Warcraft Cla
 
 ## Races
 
-For the Alliance, Gnome is the best class for PvE (player versus environment) and PvP (player versus player).
-
-For the Horde, both races are a good choice for PvE, and Undead is the best class for PvP. 
+For the Alliance, Gnome is the best class for PvE (player versus environment) and PvP (player versus player). For the Horde, both races are a good choice for PvE, but Undead is a better class for PvP. 
 
 ### [Gnome](https://classic.wowhead.com/gnome)
 
