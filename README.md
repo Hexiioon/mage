@@ -507,7 +507,7 @@ Level | Ability | Rank | School | Cost
 
 Level Requirement | Name | Item Level | DPS | Speed | Damage | From | Faction
 :---: | --- | :---: | :---: | :---: | --- | --- | ---
-5 | [Lesser Magic Wand](https://classic.wowhead.com/item=11287) | 15 | 11.33 | 1.50 | Arcane | Enchanting | All
+5 | [Lesser Magic Wand](https://classic.wowhead.com/item=11287) | 15 | 11.33 | 1.50 | Arcane | Enchanting |
 7 | [Fire Wand](https://classic.wowhead.com/item=5069) | 12 | 8.67 | 1.50 | Fire | World |
 9 | [Shadow Wand](https://classic.wowhead.com/item=5071) | 14 | 10.36 | 1.40 | Shadow | World |
 11 | [Elven Wand](https://classic.wowhead.com/item=5604) | 13 | 9.38 | 1.60 | Arcane | Quest |
